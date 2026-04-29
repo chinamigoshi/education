@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #f6f9ff, #e6f0ff);
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.container {
+  max-width: 700px;
+  margin: 80px auto;
+  background: white;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #4a6cf7;
+  font-size: 32px;
+}
+
+.date {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+p {
+  line-height: 1.8;
+  font-size: 16px;
+}
+
+.highlight {
+  color: #4a6cf7;
+  font-weight: bold;
+}
